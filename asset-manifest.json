@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-foundations/static/css/main.8218cf89.chunk.css",
+    "main.js": "/React-foundations/static/js/main.5ded2ea2.chunk.js",
+    "main.js.map": "/React-foundations/static/js/main.5ded2ea2.chunk.js.map",
+    "runtime-main.js": "/React-foundations/static/js/runtime-main.35dec339.js",
+    "runtime-main.js.map": "/React-foundations/static/js/runtime-main.35dec339.js.map",
+    "static/js/2.7f8c75ac.chunk.js": "/React-foundations/static/js/2.7f8c75ac.chunk.js",
+    "static/js/2.7f8c75ac.chunk.js.map": "/React-foundations/static/js/2.7f8c75ac.chunk.js.map",
+    "index.html": "/React-foundations/index.html",
+    "precache-manifest.4cc69ae464c2473ac687102c8f9ca68b.js": "/React-foundations/precache-manifest.4cc69ae464c2473ac687102c8f9ca68b.js",
+    "service-worker.js": "/React-foundations/service-worker.js",
+    "static/css/main.8218cf89.chunk.css.map": "/React-foundations/static/css/main.8218cf89.chunk.css.map",
+    "static/js/2.7f8c75ac.chunk.js.LICENSE.txt": "/React-foundations/static/js/2.7f8c75ac.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-foundations/static/media/down-arrow.c40ac7d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35dec339.js",
+    "static/js/2.7f8c75ac.chunk.js",
+    "static/css/main.8218cf89.chunk.css",
+    "static/js/main.5ded2ea2.chunk.js"
+  ]
+}
